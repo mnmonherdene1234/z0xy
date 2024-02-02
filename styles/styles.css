@@ -1,0 +1,18 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.title {
+  text-align: center;
+  font-weight: 100;
+  font-size: 4vw;
+}
+
+.subtitle {
+  text-align: center;
+}
